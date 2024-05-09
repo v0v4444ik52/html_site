@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #03AED2;
+}
+.korobka{
+    height: 99vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    background-color: #FEEFAD;
+    display: flex;
+    height: 99vh;
+}
+h1{
+    font-size: 100px;
+    margin: 15px 0 15px 0;
+}
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+img{
+    z-index: 2;
+    width: 40%;
+}
+.krug{
+    z-index: 1;
+    top: 100px;
+    left: calc(50%+50px);
+    position: absolute;
+    height: 99px;
+    width: 900px;
+    border: 100%;
+}
+.navbar{
+    margin: 20px 100px;
+    background-color: #FDDE55;
+    border: 1px solid wheat;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 80px;
+}
+.logo{
+    font-size: 30px;
+    margin: 0 50px 0 50px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 0 0 50px;
+}
