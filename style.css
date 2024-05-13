@@ -4,8 +4,8 @@ body{
     background-color: #03AED2;
 }
 .korobka{
-    height: 99vh;
-    margin: 15px;
+    height:80vh;
+    margin: 5px;
     width: 50%;
     display: flex;
     align-items: center;
@@ -17,12 +17,31 @@ body{
     height: 99vh;
 }
 h1{
-    font-size: 100px;
+    font-size: 110px;
     margin: 15px 0 15px 0;
 }
+.dema{
+    position: absolute;
+    top: 2000px;
+    left: 400px;
+}
 h2{
-    font-size: 30px;
-    margin: 0;
+    font-size: 115px;
+    margin-bottom:  70px;
+}
+.aktobe{
+    position: absolute;
+    top:2500px;
+    left: 400px;
+}
+.sbornaya{
+    position: absolute;
+    top: 4500px;
+    left: 300px;
+}
+h3{
+    font-size: 90px;
+    margin: 30px 0 0 0;
 }
 img{
     z-index: 2;
@@ -48,11 +67,11 @@ img{
     height: 80px;
 }
 .logo{
-    font-size: 30px;
+    font-size: 50px;
     margin: 0 50px 0 50px;
 }
 .link{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 35px;
     margin: 0 0 0 50px;
 }
