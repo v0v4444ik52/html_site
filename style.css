@@ -36,7 +36,6 @@ img {
 .history {
   font-size: 100px;
   width: 30%;
-
 }
 .korobka{
 display: flex;
@@ -45,11 +44,6 @@ margin:0;
 width: 100%;
 align-items: center;
 justify-content: center;
-}
-.baba{
-    margin-top: 1000px;
-    color:black;
-
 }
 .logo{
     border-radius:10px;
@@ -73,17 +67,23 @@ justify-content: center;
     padding: 50px 0;
     margin:0px;
     position: fixed;
-align-items: center;
-width:100%;
-z-index: 7;
+    align-items: center;
+    width:100%;
+    z-index: 7;
 
+}
+.baller{
+    border-radius:10px;
+    width: 200px;
+    height:200px;
+    margin-left:100px;
 }
 .myskills{
     color:#000000;
     height:50%;
 }
 .skills{
-    font-size: 75px;
+    font-size: 100px;
     z-index: 100;
     color:black;
 }
@@ -92,7 +92,7 @@ z-index: 7;
     height:50%;
 }
 .dreams{
-    font-size: 75px;
+    font-size: 100px;
     z-index: 100;
     color:#000000;
 }
@@ -102,7 +102,6 @@ z-index: 7;
 }
 .blog{
     font-size: 75px;
-    z-index: 100;
     color:#000000;
 }
 .hz{
